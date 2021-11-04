@@ -1,0 +1,10 @@
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\exe_15\exe_15\obj\Debug\exe_15.csproj.AssemblyReference.cache
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\exe_15\exe_15\obj\Debug\exe_15.Form1.resources
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\exe_15\exe_15\obj\Debug\exe_15.Properties.Resources.resources
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\exe_15\exe_15\obj\Debug\exe_15.csproj.GenerateResource.cache
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\exe_15\exe_15\obj\Debug\exe_15.csproj.CoreCompileInputs.cache
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\exe_15\exe_15\bin\Debug\exe_15.exe.config
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\exe_15\exe_15\bin\Debug\exe_15.exe
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\exe_15\exe_15\bin\Debug\exe_15.pdb
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\exe_15\exe_15\obj\Debug\exe_15.exe
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\exe_15\exe_15\obj\Debug\exe_15.pdb
