@@ -1,0 +1,10 @@
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\Exe_17\Exe_17\bin\Debug\Exe_17.exe.config
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\Exe_17\Exe_17\bin\Debug\Exe_17.exe
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\Exe_17\Exe_17\bin\Debug\Exe_17.pdb
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\Exe_17\Exe_17\obj\Debug\Exe_17.csproj.AssemblyReference.cache
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\Exe_17\Exe_17\obj\Debug\Exe_17.Form1.resources
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\Exe_17\Exe_17\obj\Debug\Exe_17.Properties.Resources.resources
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\Exe_17\Exe_17\obj\Debug\Exe_17.csproj.GenerateResource.cache
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\Exe_17\Exe_17\obj\Debug\Exe_17.csproj.CoreCompileInputs.cache
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\Exe_17\Exe_17\obj\Debug\Exe_17.exe
+C:\Users\guisa\Documents\Repositorios\C#_FATEC\Exe_17\Exe_17\obj\Debug\Exe_17.pdb
